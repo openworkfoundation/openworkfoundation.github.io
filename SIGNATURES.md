@@ -8,12 +8,12 @@ Tu firma es tu primer commit a la alianza.
 
 ## Featured signatories · Firmantes destacados
 
-| Name · Nombre | Affiliation · Afiliación | Date · Fecha |
-| ------------- | ------------------------ | ------------ |
-|               |                          |              |
+| Name · Nombre    | Affiliation · Afiliación        | Date · Fecha |
+| ---------------- | ------------------------------- | ------------ |
+| Germán Aliprandi | Initiator, Open Work Foundation | 2026-10-21   |
 
 ## Signatories · Firmantes
 
-| Name · Nombre    | Affiliation · Afiliación (optional) | Date · Fecha |
-| ---------------- | ----------------------------------- | ------------ |
-| Germán Aliprandi | Initiator, Open Work Foundation     | 2026-10-21   |
+| Name · Nombre | Affiliation · Afiliación (optional) | Date · Fecha |
+| ------------- | ----------------------------------- | ------------ |
+|               |                                     |              |
