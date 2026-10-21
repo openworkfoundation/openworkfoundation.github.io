@@ -5,6 +5,8 @@ Static institutional site for the Open Work Foundation: open, neutral, auditable
 ## Rules
 
 - Bilingual EN/ES, always first-class: every new page ships `manifesto/` and `es/manifesto/` style twins.
+- Every content or layout change MUST be applied to both language versions in the same commit. After editing one, immediately port the equivalent to the other.
+- Detect and fix EN/ES drift: compare section headers, pillars, cards, and CTAs across both pages. If one has stale copy that no longer mirrors the other, align it in the same commit rather than shipping partial parity.
 - No em-dashes anywhere. Commas, periods, or colons instead.
 - Tone: institutional, evidence-first, direct. No hype, no buzzwords.
 - Narrative order is fixed: Problem → Evidence → Purpose.
