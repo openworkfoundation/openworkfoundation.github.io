@@ -1,0 +1,27 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "Open infrastructure for work in the AI era.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openworkfoundation/openworkfoundation.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/openworkfoundation/openworkfoundation.github.io/issues"
+  },
+  "homepage": "https://github.com/openworkfoundation/openworkfoundation.github.io#readme",
+  "devDependencies": {
+    "vite": "^8.3.4"
+  },
+  "type": "module"
+}
