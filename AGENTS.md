@@ -1,3 +1,23 @@
+# Open Work Foundation Site
+
+Static institutional site for the Open Work Foundation: open, neutral, auditable labor-market infrastructure for the AI transition.
+
+## Rules
+
+- Bilingual EN/ES, always first-class: every new page ships `manifesto/` and `es/manifesto/` style twins.
+- No em-dashes anywhere. Commas, periods, or colons instead.
+- Tone: institutional, evidence-first, direct. No hype, no buzzwords.
+- Narrative order is fixed: Problem → Evidence → Purpose.
+- Anthropic (or any vendor) only appears as a labeled source, never as authority.
+- The founder is "initiator", never "owner". Nothing public in his name without approval.
+- Signing the manifesto works via pull request to `SIGNATURES.md` only.
+
+## Stack
+
+- Static HTML+CSS, Vite+ (`vp`) toolchain. See PRODUCT.md for audience context and CONTRIBUTING.md for workflow.
+- Pipeline: `vp check` → `vp build` → GitHub Pages deploy.
+- Do not introduce eslint/prettier/vite directly; Vite+ owns the toolchain.
+
 <!--VITE PLUS START-->
 
 # Using Vite+, the Unified Toolchain for the Web
